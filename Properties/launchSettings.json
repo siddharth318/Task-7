@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Task_7": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7181",
+      "launchBrowser": false
+    }
+  }
+}
